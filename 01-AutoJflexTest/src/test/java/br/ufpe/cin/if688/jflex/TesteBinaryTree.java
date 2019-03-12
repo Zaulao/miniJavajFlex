@@ -8,6 +8,8 @@ import java.io.IOException;
 
 import org.junit.Test;
 
+import br.ufpe.cin.if688.jflex.MiniJava;
+
 public class TesteBinaryTree {
 
 	@Test

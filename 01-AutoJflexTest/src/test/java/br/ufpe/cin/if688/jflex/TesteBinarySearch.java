@@ -6,8 +6,9 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
-import br.ufpe.cin.if688.jflex.MiniJava;
 import org.junit.Test;
+
+import br.ufpe.cin.if688.jflex.MiniJava;
 
 public class TesteBinarySearch {
 
